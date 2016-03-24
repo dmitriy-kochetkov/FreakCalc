@@ -1,0 +1,12 @@
+http://www.miet-developers.com
+
+Simple java application for calculating freaks expenses
+--------------------------------------------
+name        : FreakCalc.jar
+version     : 0.1.2
+---------------------------------------------
+0.0.0       Idea
+0.1.0       GUI + simple realisation
+0.1.1       Save current state when closing application
+0.1.2       Menu bar + about menu item
+0.1.3       File -> Exit & Save state; Dialog window when closing application
